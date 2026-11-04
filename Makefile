@@ -7,3 +7,7 @@ dev:
 
 triage:
 	$(PYTHON) -m packages.orchestrator.pipelines
+
+.PHONY: guide-skill
+guide-skill:
+	$(PYTHON) guide/build.py

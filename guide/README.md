@@ -34,7 +34,8 @@
 1. **Projects → New project** → название «Гид».
 2. **Instructions**: скопируйте весь текст [`project/INSTRUCTIONS.md`](project/INSTRUCTIONS.md) (кнопка Raw → выделить всё).
 3. **Project knowledge** → добавьте:
-   - Google Doc **«Гид · Профиль»** из Drive (он уже создан и заполнен черновиком — поправьте неверное);
+   - Google Doc **«Гид · Профиль»** из Drive (уже создан и заполнен из Календаря, Plaud и выгрузки прошлых чатов — поправьте неверное);
+   - Google Doc **«Гид · Журнал мест»** из Drive (места, где уже были, с оценками — чтобы не повторять);
    - из [`.claude/skills/guide/references/`](../.claude/skills/guide/references/): `sources.md`, `routes.md`, `memory.md`, `trip-planning.md`.
 4. Все разговоры «куда пойти / маршрут / поездка» ведите **внутри этого Проекта**.
 
